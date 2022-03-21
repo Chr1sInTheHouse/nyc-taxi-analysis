@@ -1,0 +1,6 @@
+*.csv
+venv*
+dask-worker-space
+*.png
+*.pdf
+.vscode
